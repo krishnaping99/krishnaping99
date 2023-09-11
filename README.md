@@ -6,7 +6,7 @@
 
 📚 **Portfolio Highlights**:
 - 📈 Data Visualization: Crafting engaging visualizations to make data speak.
-- 📊 Data Cleaning & Transformation: Turning messy data into clean, structured datasets.
+- 📊 Data Cleaning & Transformation: Turning raw data into clean, structured datasets.
 - 📉 Statistical Analysis: Unearthing patterns and trends through statistical methods.
 - 📑 Data Storytelling: Communicating findings through compelling narratives.
 - 📊 Data Tools: Proficient in Python, R, SQL, and popular data analysis libraries.
