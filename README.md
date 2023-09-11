@@ -6,15 +6,15 @@
 - 📈 Data Visualization: Crafting engaging visualizations to make data speak.
 - 📊 Data Cleaning & Transformation: Turning messy data into clean, structured datasets.
 - 📉 Statistical Analysis: Unearthing patterns and trends through statistical methods.
-- 📊 Machine Learning: Applying ML algorithms for predictive analytics.
 - 📑 Data Storytelling: Communicating findings through compelling narratives.
-- 📊 Data Tools: Proficient in Python, SQL, Power BI and popular data analysis libraries.
+- 📊 Data Tools: Proficient in Python, R, SQL, and popular data analysis libraries.
+- 📊 Machine Learning: Applying ML algorithms for predictive analytics.
 
 🌟 **Featured Projects**:
-- 📊 Customer Churn Analysis (): Description of your first project.
-- 📈 [Project 2 Name](https://github.com/krishnaping99/Customer-Churn-Analysis): Description of your second project.
-- 📉 [Project 3 Name](link): Description of your third project.
+- 📊 [Customer Churn Analysis](https://github.com/krishnaping99/Customer-Churn-Analysis): A detailed Data Analysis project focused on analyzing Customer Churn in a banking dataset using Power BI as the primary analytical and visualizing tool.
+- 📈 [SQL Data Cleaning: Nashville Housing Data](https://github.com/krishnaping99/Nashville-Housing-SQL-Data-Cleaning-Project-): A data preparation project focused on performing data cleaning and optimization on the Nashville Housing Dataset using SQL Server Management Studio (SSMS) and SQL querying Language.
 
 🔗 Feel free to explore my repositories to dive deeper into my data analysis projects. Don't hesitate to reach out if you have any questions or collaboration ideas. Let's unlock insights from data together! 🤝
 
-📫 **Contact**: [LinkedIn](your-linkedin-profile-link) | [Email](your-email@example.com)
+📫 **Contact**: [LinkedIn:](https://www.linkedin.com/in/krishnap-/) | [Email:](krishnaping99@gmail.com)
+
