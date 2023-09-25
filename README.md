@@ -15,6 +15,7 @@
 🌟 **Featured Projects**:
 - 📊 [Customer Churn Analysis](https://github.com/krishnaping99/Customer-Churn-Analysis): A detailed Data Analysis project focused on analyzing Customer Churn in a banking dataset using Power BI as the primary analytical and visualizing tool.
 - 📈 [SQL Data Cleaning: Nashville Housing Data](https://github.com/krishnaping99/Nashville-Housing-SQL-Data-Cleaning-Project-): A data preparation project focused on performing data cleaning and optimization on the Nashville Housing Dataset using SQL Server Management Studio (SSMS) and SQL querying Language.
+- 📉 [Sales Data Analysis](https://github.com/krishnaping99/Sales-Data-Analysis): A thorough data analysis project focused on providing insights into the Sales data of a retail company using Python programming language.
 
 🔗 Feel free to explore my repositories to dive deeper into my data analysis projects. Don't hesitate to reach out if you have any questions or collaboration ideas. Let's unlock insights from data together! 🤝
 
